@@ -1,7 +1,7 @@
 package com.datastructures.test;
 
 public class Test {
-    private static boolean foo(String Str) {
+    public static boolean foo(String Str) {
         System.out.println(Str);
         return true;
     }
