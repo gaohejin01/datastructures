@@ -1,4 +1,4 @@
-package src.com.datastructures.test;
+package com.datastructures.test;
 
 public class Test {
     public static void main(String[] args) {
